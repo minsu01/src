@@ -1,0 +1,37 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_example",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_dqn",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_dqn/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/minsu01/robot_ws/build/time_msgs_rclpy_pkg",
+        "/home/minsu01/robot_ws/install/time_msgs_rclpy_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/build/my_move_turtle_pkg",
+        "/home/minsu01/robot_ws/install/my_move_turtle_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/build/my_first_ros_rclpy_pkg",
+        "/home/minsu01/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_example",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/build/turtlebot3_dqn",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_dqn/lib/python3.10/site-packages",
+        "/home/minsu01/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/minsu01/robot_ws/build/time_msgs_rclpy_pkg",
+        "/home/minsu01/robot_ws/install/time_msgs_rclpy_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/build/my_move_turtle_pkg",
+        "/home/minsu01/robot_ws/install/my_move_turtle_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/build/my_first_ros_rclpy_pkg",
+        "/home/minsu01/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/minsu01/robot_ws/src/msg_srv_action_interface_example"
+}
