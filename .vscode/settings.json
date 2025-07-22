@@ -13,6 +13,7 @@
         "/home/minsu01/robot_ws/install/my_move_turtle_pkg/lib/python3.10/site-packages",
         "/home/minsu01/robot_ws/build/my_first_ros_rclpy_pkg",
         "/home/minsu01/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages",
         "/opt/ros/humble/lib/python3.10/site-packages",
         "/opt/ros/humble/local/lib/python3.10/dist-packages"
     ],
@@ -30,8 +31,8 @@
         "/home/minsu01/robot_ws/install/my_move_turtle_pkg/lib/python3.10/site-packages",
         "/home/minsu01/robot_ws/build/my_first_ros_rclpy_pkg",
         "/home/minsu01/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages",
+        "/home/minsu01/robot_ws/install/my_first_package_msgs/local/lib/python3.10/dist-packages",
         "/opt/ros/humble/lib/python3.10/site-packages",
         "/opt/ros/humble/local/lib/python3.10/dist-packages"
-    ],
-    "cmake.sourceDirectory": "/home/minsu01/robot_ws/src/msg_srv_action_interface_example"
+    ]
 }

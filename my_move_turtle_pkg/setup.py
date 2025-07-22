@@ -29,7 +29,15 @@ setup(
             'my_service_server = my_move_turtle_pkg.my_service_server:main',
             'dist_turtle_action_server = my_move_turtle_pkg.dist_turtle_action_server:main',
             'my_subscriber = my_move_turtle_pkg.my_subscriber:main',
-            'my_multi_thread = my_move_turtle_pkg.my_multi_thread:main'
-        ],
+            'my_multi_thread = my_move_turtle_pkg.my_multi_thread:main',
+            'move_key_turtle = my_move_turtle_pkg.move_key_turtle:main',
+            'detect_obstacle_turtle = my_move_turtle_pkg.detect_obstacle_turtle:main',
+            'odomentry = my_move_turtle_pkg.odomentry:main',
+            'odom = my_move_turtle_pkg.odom:main',
+            'move_hands_turtle = my_move_turtle_pkg.move_hands_turtle:main',
+            'square_move = my_move_turtle_pkg.square_move:main',
+            'angle_move = my_move_turtle_pkg.angle_move:main',
+            'angle2_move = my_move_turtle_pkg angle2_move:main'
+    ],
     },
 )
